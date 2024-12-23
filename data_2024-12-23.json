@@ -1,0 +1,670 @@
+[
+    {
+        "children": [
+            {
+                "children": [
+                    {
+                        "dateAdded": 1725637021146,
+                        "dateLastUsed": 1734939508098,
+                        "id": "148",
+                        "index": 0,
+                        "parentId": "161",
+                        "title": "Kimi.ai - 帮你看更大的世界",
+                        "url": "https://kimi.moonshot.cn/"
+                    },
+                    {
+                        "dateAdded": 1728297385392,
+                        "dateLastUsed": 1732170454129,
+                        "id": "166",
+                        "index": 1,
+                        "parentId": "161",
+                        "title": "OpenI - AI时代",
+                        "url": "https://openi.cn/#term-8151-8151"
+                    },
+                    {
+                        "dateAdded": 1711532687033,
+                        "dateLastUsed": 1715400461814,
+                        "id": "10",
+                        "index": 2,
+                        "parentId": "161",
+                        "title": "海螺问问AI",
+                        "url": "https://hailuoai.com/chat"
+                    },
+                    {
+                        "dateAdded": 1728297590743,
+                        "id": "167",
+                        "index": 3,
+                        "parentId": "161",
+                        "title": "DeepSeek",
+                        "url": "https://chat.deepseek.com/"
+                    },
+                    {
+                        "dateAdded": 1728296805125,
+                        "dateLastUsed": 1731299873811,
+                        "id": "162",
+                        "index": 4,
+                        "parentId": "161",
+                        "title": "讯飞星火大模型-AI大语言模型-星火大模型-科大讯飞",
+                        "url": "https://xinghuo.xfyun.cn/desk"
+                    },
+                    {
+                        "dateAdded": 1728296875123,
+                        "dateLastUsed": 1734935963221,
+                        "id": "163",
+                        "index": 5,
+                        "parentId": "161",
+                        "title": "通义tongyi.ai_通义千问",
+                        "url": "https://tongyi.aliyun.com/"
+                    },
+                    {
+                        "dateAdded": 1728296934971,
+                        "id": "164",
+                        "index": 6,
+                        "parentId": "161",
+                        "title": "文心一言",
+                        "url": "https://yiyan.baidu.com/?utm_source=csdn6"
+                    },
+                    {
+                        "dateAdded": 1728297285656,
+                        "id": "165",
+                        "index": 7,
+                        "parentId": "161",
+                        "title": "OpenI AI助手",
+                        "url": "https://chat.openi.cn/web/?#/"
+                    },
+                    {
+                        "dateAdded": 1729864376655,
+                        "dateLastUsed": 1734438540827,
+                        "id": "179",
+                        "index": 8,
+                        "parentId": "161",
+                        "title": "ChatGPT",
+                        "url": "https://chatgpt.com/"
+                    },
+                    {
+                        "dateAdded": 1732443772215,
+                        "dateLastUsed": 1734715602093,
+                        "id": "205",
+                        "index": 9,
+                        "parentId": "161",
+                        "title": "AI问答宝",
+                        "url": "https://ai.wendabao-a.net/?utm_source=alpha-b#/chat/1732443702860"
+                    },
+                    {
+                        "dateAdded": 1733475219398,
+                        "id": "236",
+                        "index": 10,
+                        "parentId": "161",
+                        "title": "AI Tools",
+                        "url": "https://abc.ufun.net/home"
+                    },
+                    {
+                        "dateAdded": 1733933616154,
+                        "dateLastUsed": 1734178480512,
+                        "id": "241",
+                        "index": 11,
+                        "parentId": "161",
+                        "title": "AI画图 - 智谱清言智能体",
+                        "url": "https://chatglm.cn/main/gdetail/65a232c082ff90a2ad2f15e2?lang=zh"
+                    },
+                    {
+                        "dateAdded": 1734689089368,
+                        "dateLastUsed": 1734846354807,
+                        "id": "268",
+                        "index": 12,
+                        "parentId": "161",
+                        "title": "小众技术工具库 | 专注分享实用软件和精品网站",
+                        "url": "https://www.xiaozhongjishu.com/"
+                    }
+                ],
+                "dateAdded": 1728296790541,
+                "dateGroupModified": 1734689089368,
+                "id": "161",
+                "index": 0,
+                "parentId": "1",
+                "title": "AI"
+            },
+            {
+                "dateAdded": 1719718580734,
+                "dateLastUsed": 1732220750143,
+                "id": "106",
+                "index": 1,
+                "parentId": "1",
+                "title": "波特律动LED字模生成器",
+                "url": "https://led.baud-dance.com/"
+            },
+            {
+                "dateAdded": 1726475461638,
+                "dateLastUsed": 1733756587680,
+                "id": "151",
+                "index": 2,
+                "parentId": "1",
+                "title": "立创开发板技术文档中心",
+                "url": "https://wiki.lckfb.com/zh-hans/esp32s3r8n8/"
+            },
+            {
+                "children": [
+                    {
+                        "dateAdded": 1728495320100,
+                        "dateLastUsed": 1728658797273,
+                        "id": "170",
+                        "index": 0,
+                        "parentId": "173",
+                        "title": "《高速电路设计与仿真分析：Cadence实例设计详解》-PCB layout相关资料下载-EEWORLD下载中心",
+                        "url": "https://download.eeworld.com.cn/detail/kknd21cn/561105"
+                    },
+                    {
+                        "dateAdded": 1720685168483,
+                        "dateLastUsed": 1720880052945,
+                        "id": "127",
+                        "index": 1,
+                        "parentId": "173",
+                        "title": "运放-电阻式电流采样-高压侧和低压侧电流采样方案-CSDN博客",
+                        "url": "https://blog.csdn.net/qq_21794157/article/details/136358327?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522172068072916800180670935%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=172068072916800180670935&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-136358327-null-null.142^v100^pc_search_result_base7&utm_term=%E8%BF%90%E6%94%BE%E9%87%87%E9%9B%86%E7%94%B5%E6%B5%81&spm=1018.2226.3001.4187"
+                    },
+                    {
+                        "dateAdded": 1720969847884,
+                        "dateLastUsed": 1721117867825,
+                        "id": "136",
+                        "index": 2,
+                        "parentId": "173",
+                        "title": "嵌入式开发-STM32硬件SPI驱动TFT屏_stm32 spi ili934-CSDN博客",
+                        "url": "https://blog.csdn.net/13011803189/article/details/128230926?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522172096901316800188549659%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=172096901316800188549659&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-128230926-null-null.142^v100^pc_search_result_base4&utm_term=stm32h750%E9%A9%B1%E5%8A%A8tft&spm=1018.2226.3001.4187"
+                    },
+                    {
+                        "dateAdded": 1728281973788,
+                        "id": "159",
+                        "index": 3,
+                        "parentId": "173",
+                        "title": "ESP32_IDF学习6【经典蓝牙与BLE】 - redlightASl - 博客园",
+                        "url": "https://www.cnblogs.com/redlightASl/p/15539689.html#%E7%BB%8F%E5%85%B8%E8%93%9D%E7%89%99%E6%A8%A1%E5%9D%97bt"
+                    },
+                    {
+                        "dateAdded": 1728659923760,
+                        "id": "175",
+                        "index": 4,
+                        "parentId": "173",
+                        "title": "Anaconda添加国内源、Anaconda管理虚拟环境_conda国内源-CSDN博客",
+                        "url": "https://blog.csdn.net/qq_51872445/article/details/130231714"
+                    },
+                    {
+                        "dateAdded": 1733234460960,
+                        "id": "229",
+                        "index": 5,
+                        "parentId": "173",
+                        "title": "VSCODE platformio ESP32-S3 内置 JTAG 接口断点单步调试笔记_esp32 s3 jtag-CSDN博客",
+                        "url": "https://blog.csdn.net/ResumeProject/article/details/140901097?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522800fb3539621c911c78e894d85e6152a%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=800fb3539621c911c78e894d85e6152a&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-140901097-null-null.142^v100^pc_search_result_base8&utm_term=vscode%20platformio%E9%85%8D%E7%BD%AEesp32s3&spm=1018.2226.3001.4187"
+                    },
+                    {
+                        "dateAdded": 1733234478497,
+                        "id": "230",
+                        "index": 6,
+                        "parentId": "173",
+                        "title": "PlatformIO+ESP32S3学习：驱动DS1302实现时间设置和读取_esp32 ds1302-CSDN博客",
+                        "url": "https://blog.csdn.net/qq_51930953/article/details/140734318?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522800fb3539621c911c78e894d85e6152a%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=800fb3539621c911c78e894d85e6152a&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-140734318-null-null.142^v100^pc_search_result_base8&utm_term=vscode%20platformio%E9%85%8D%E7%BD%AEesp32s3&spm=1018.2226.3001.4187"
+                    },
+                    {
+                        "dateAdded": 1734374085165,
+                        "id": "266",
+                        "index": 7,
+                        "parentId": "173",
+                        "title": "chrome添加书签同步插件_chrome书签同步插件-CSDN博客",
+                        "url": "https://blog.csdn.net/qq_38983728/article/details/103024577"
+                    }
+                ],
+                "dateAdded": 1728658681050,
+                "dateGroupModified": 1734645191308,
+                "id": "173",
+                "index": 3,
+                "parentId": "1",
+                "title": "教程资料"
+            },
+            {
+                "dateAdded": 1727158498652,
+                "dateLastUsed": 1734953994714,
+                "id": "155",
+                "index": 4,
+                "parentId": "1",
+                "title": "微信文件传输助手网页版",
+                "url": "https://filehelper.weixin.qq.com/"
+            },
+            {
+                "children": [
+                    {
+                        "dateAdded": 1730539961932,
+                        "id": "183",
+                        "index": 0,
+                        "parentId": "184",
+                        "title": "stm32-HY-SRF05 超声波模块-原理及代码解读-CSDN博客",
+                        "url": "https://blog.csdn.net/qq_52900974/article/details/128252382?ops_request_misc=%257B%2522request%255Fid%2522%253A%25229FA51F78-187E-4CC9-86E3-3C15C2BFA26A%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=9FA51F78-187E-4CC9-86E3-3C15C2BFA26A&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-1-128252382-null-null.142^v100^pc_search_result_base8&utm_term=hy-srf05%E8%B6%85%E5%A3%B0%E6%B3%A2%E6%A8%A1%E5%9D%97&spm=1018.2226.3001.4187"
+                    },
+                    {
+                        "dateAdded": 1730382835398,
+                        "id": "181",
+                        "index": 1,
+                        "parentId": "184",
+                        "title": "超声波模块详细介绍（stm32循迹小车中超声波的介绍）-CSDN博客",
+                        "url": "https://blog.csdn.net/m0_51951121/article/details/125849125?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522387C7B02-BC08-42F2-9125-E78070BF8A97%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=387C7B02-BC08-42F2-9125-E78070BF8A97&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-125849125-null-null.142^v100^pc_search_result_base8&utm_term=%E8%B6%85%E5%A3%B0%E6%B3%A2%E6%A8%A1%E5%9D%97&spm=1018.2226.3001.4187"
+                    },
+                    {
+                        "dateAdded": 1732019006473,
+                        "id": "186",
+                        "index": 2,
+                        "parentId": "184",
+                        "title": "Appinventor——蓝牙app(蓝牙遥控器、串口助手、温湿度显示、切换界面蓝牙依旧保持连接)_手机蓝牙控制app软件开发-CSDN博客",
+                        "url": "https://blog.csdn.net/m0_59113542/article/details/127501725"
+                    },
+                    {
+                        "dateAdded": 1732021244953,
+                        "id": "187",
+                        "index": 3,
+                        "parentId": "184",
+                        "title": "基于HAL库的stm32中串口的数据收发（使用stm32cubemx工具）_stm32 hal 串口接收-CSDN博客",
+                        "url": "https://blog.csdn.net/tmk1234567890/article/details/137784151?ops_request_misc=%257B%2522request%255Fid%2522%253A%25224fac35bb310ec3e1c6887361d0c32105%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=4fac35bb310ec3e1c6887361d0c32105&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-4-137784151-null-null.142^v100^pc_search_result_base8&utm_term=hal%E5%BA%93%E4%B8%B2%E5%8F%A3%E4%B8%AD%E6%96%AD%E6%8E%A5%E6%94%B6%E5%87%BD%E6%95%B0&spm=1018.2226.3001.4187"
+                    },
+                    {
+                        "dateAdded": 1732023406880,
+                        "id": "188",
+                        "index": 4,
+                        "parentId": "184",
+                        "title": "【STM32 HAL库】TB6612电机驱动-CSDN博客",
+                        "url": "https://blog.csdn.net/AbaAbaxxx_/article/details/140831279?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522a0295a4afbb249d5bc2456037a4a24f6%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=a0295a4afbb249d5bc2456037a4a24f6&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-140831279-null-null.142^v100^pc_search_result_base8&utm_term=stm32tb6612%E9%A9%B1%E5%8A%A8%E7%9B%B4%E6%B5%81%E7%94%B5%E6%9C%BA&spm=1018.2226.3001.4187"
+                    },
+                    {
+                        "dateAdded": 1732023435683,
+                        "id": "189",
+                        "index": 5,
+                        "parentId": "184",
+                        "title": "一、stm32+TB6612+PWM+电机驱动_stm32tb6612电机驱动-CSDN博客",
+                        "url": "https://blog.csdn.net/m0_52779966/article/details/143233225?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522a0295a4afbb249d5bc2456037a4a24f6%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=a0295a4afbb249d5bc2456037a4a24f6&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-143233225-null-null.142^v100^pc_search_result_base8&utm_term=stm32tb6612%E9%A9%B1%E5%8A%A8%E7%9B%B4%E6%B5%81%E7%94%B5%E6%9C%BA&spm=1018.2226.3001.4187"
+                    },
+                    {
+                        "dateAdded": 1732179580512,
+                        "dateLastUsed": 1732619582579,
+                        "id": "191",
+                        "index": 6,
+                        "parentId": "184",
+                        "title": "stm32使用HAL库配置串口中断收发数据（保姆级教程）_stm32 hal库 串口收发程序-CSDN博客",
+                        "url": "https://blog.csdn.net/qq_52062938/article/details/130494097"
+                    },
+                    {
+                        "dateAdded": 1732182726595,
+                        "id": "192",
+                        "index": 7,
+                        "parentId": "184",
+                        "title": "Keil5中文乱码问题以及cubeMX重新生成代码导致中文注释乱码问题的解决方法_cubemx 新生成的keil工程乱码-CSDN博客",
+                        "url": "https://blog.csdn.net/qq_30658583/article/details/113877124"
+                    },
+                    {
+                        "dateAdded": 1732220622776,
+                        "id": "194",
+                        "index": 8,
+                        "parentId": "184",
+                        "title": "【STM32入门教程-2024】第14集 如何在OLED屏幕上挥毫_哔哩哔哩_bilibili",
+                        "url": "https://www.bilibili.com/video/BV19u4y197df?spm_id_from=333.788.videopod.sections&vd_source=3a252a47b83f872851477f7bb46df3d6"
+                    },
+                    {
+                        "dateAdded": 1732220633421,
+                        "dateLastUsed": 1734042774370,
+                        "id": "195",
+                        "index": 9,
+                        "parentId": "184",
+                        "title": "【STM32】定时器1触发ADC多（规则）通道采样+DMA(CUBEMX配置)_tim1 tigger out event stm32 adc-CSDN博客",
+                        "url": "https://blog.csdn.net/m0_60917611/article/details/129541119?ops_request_misc=%257B%2522request%255Fid%2522%253A%25228f63405d48318cdb2852f7419da5cdbc%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=8f63405d48318cdb2852f7419da5cdbc&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_positive~default-1-129541119-null-null.142^v100^pc_search_result_base8&utm_term=stm32%E5%AE%9A%E6%97%B6%E5%99%A8%E8%A7%A6%E5%8F%91adc%20dma&spm=1018.2226.3001.4187"
+                    },
+                    {
+                        "dateAdded": 1732222439475,
+                        "id": "196",
+                        "index": 10,
+                        "parentId": "184",
+                        "title": "【STM32】HAL库在7针脚0.96寸OLED屏上的移植---硬件SPI（一）_stm32hal库在7针-CSDN博客",
+                        "url": "https://blog.csdn.net/Qxiaofei_/article/details/123594601"
+                    },
+                    {
+                        "dateAdded": 1732222682977,
+                        "id": "198",
+                        "index": 11,
+                        "parentId": "184",
+                        "title": "嵌入式与 STM32 基础 - 文章分类 - ppqppl - 博客园",
+                        "url": "https://www.cnblogs.com/ppqppl/category/2211264.html"
+                    },
+                    {
+                        "dateAdded": 1732375861043,
+                        "id": "202",
+                        "index": 12,
+                        "parentId": "184",
+                        "title": "STM32对HAL库的PWM控制-CSDN博客",
+                        "url": "https://blog.csdn.net/weixin_36038705/article/details/106346861?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~default-2.no_search_link&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~CTRLIST~default-2.no_search_link"
+                    },
+                    {
+                        "dateAdded": 1732383903413,
+                        "id": "203",
+                        "index": 13,
+                        "parentId": "184",
+                        "title": "全网音乐免费下载,免费mp3歌曲下载,免费在线音乐,myfreemp3音乐-牛五音乐网",
+                        "url": "http://www.6002255.com/"
+                    },
+                    {
+                        "dateAdded": 1732619918126,
+                        "id": "207",
+                        "index": 14,
+                        "parentId": "184",
+                        "title": "基于HAL库的stm32中串口的数据收发（使用stm32cubemx工具）_stm32 hal 串口接收-CSDN博客",
+                        "url": "https://blog.csdn.net/tmk1234567890/article/details/137784151?ops_request_misc=&request_id=&biz_id=102&utm_term=stm32%20hal%E5%BA%93%20%E4%B8%B2%E5%8F%A3%E6%94%B6%E5%8F%91%E7%A8%8B%E5%BA%8F&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduweb~default-3-137784151.142^v100^pc_search_result_base8&spm=1018.2226.3001.4187"
+                    },
+                    {
+                        "dateAdded": 1732633932481,
+                        "id": "208",
+                        "index": 15,
+                        "parentId": "184",
+                        "title": "毕业设计（论文）开题报告-基于单片机的智能小车控制系统设计 - 道客巴巴",
+                        "url": "https://www.doc88.com/p-6582159132503.html"
+                    },
+                    {
+                        "dateAdded": 1732633938215,
+                        "id": "209",
+                        "index": 16,
+                        "parentId": "184",
+                        "title": "基于单片机的智能车控制系统的设计的开题报告.docx - 人人文库",
+                        "url": "https://www.renrendoc.com/paper/322517733.html"
+                    },
+                    {
+                        "dateAdded": 1732633942947,
+                        "id": "210",
+                        "index": 17,
+                        "parentId": "184",
+                        "title": "基于单片机的智能小车设计开题报告 - 百度文库",
+                        "url": "https://wenku.baidu.com/view/d9a68dac80d049649b6648d7c1c708a1284a0ab1.html?_wkts_=1732629073197&bdQuery=%E5%9F%BA%E4%BA%8E%E5%8D%95%E7%89%87%E6%9C%BA%E7%9A%84%E5%B0%8F%E8%BD%A6%E8%A1%8C%E9%A9%B6%E6%93%8D%E6%8E%A7%E7%B3%BB%E7%BB%9F%E8%AE%BE%E8%AE%A1%E5%BC%80%E9%A2%98%E6%8A%A5%E5%91%8A%E6%A0%BC%E5%BC%8F"
+                    },
+                    {
+                        "dateAdded": 1733329249204,
+                        "dateLastUsed": 1734197293047,
+                        "id": "232",
+                        "index": 18,
+                        "parentId": "184",
+                        "title": "STM32CubeMX环境安装（保姆级）-CSDN博客",
+                        "url": "https://blog.csdn.net/qq_63922192/article/details/127892120"
+                    },
+                    {
+                        "dateAdded": 1733426747952,
+                        "id": "234",
+                        "index": 19,
+                        "parentId": "184",
+                        "title": "中国大学矢量校徽大全",
+                        "url": "https://www.urongda.com/"
+                    },
+                    {
+                        "dateAdded": 1733934281802,
+                        "id": "242",
+                        "index": 20,
+                        "parentId": "184",
+                        "title": "AppInventor要在界面上做一个电量图标，有什么好的思路吗？ - 腾讯云开发者社区-腾讯云",
+                        "url": "https://cloud.tencent.com/developer/news/1431176"
+                    },
+                    {
+                        "dateAdded": 1734045119176,
+                        "id": "246",
+                        "index": 21,
+                        "parentId": "184",
+                        "title": "定时器(PWM输出)触发ADC采样(DMA)——STM32CubeMX_stm32 pwm触发adc采样-CSDN博客",
+                        "url": "https://blog.csdn.net/2301_77123899/article/details/136331518?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522a40359405428d9badaccf21f6998d18a%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=a40359405428d9badaccf21f6998d18a&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_click~default-2-136331518-null-null.142^v100^pc_search_result_base8&utm_term=stm32adc%E5%AE%9A%E6%97%B6%E5%99%A8%E8%A7%A6%E5%8F%91%E9%87%87%E6%A0%B7&spm=1018.2226.3001.4187"
+                    }
+                ],
+                "dateAdded": 1730539992769,
+                "dateGroupModified": 1734045119176,
+                "id": "184",
+                "index": 5,
+                "parentId": "1",
+                "title": "毕设小车模块资料"
+            },
+            {
+                "children": [
+                    {
+                        "dateAdded": 1733039543751,
+                        "id": "215",
+                        "index": 0,
+                        "parentId": "214",
+                        "title": "消侧音的两种方法讨论",
+                        "url": "https://www.eepw.com.cn/article/229049.htm"
+                    }
+                ],
+                "dateAdded": 1733039530321,
+                "dateGroupModified": 1733039543751,
+                "id": "214",
+                "index": 6,
+                "parentId": "1",
+                "title": "扬百_查资料"
+            },
+            {
+                "dateAdded": 1733496041895,
+                "id": "238",
+                "index": 7,
+                "parentId": "1",
+                "title": "简历模板资源网 - 免费简历模板下载网站（简历精美专业）",
+                "url": "https://www.jianlimoban-ziyuan.com/"
+            },
+            {
+                "children": [
+                    {
+                        "children": [
+                            {
+                                "dateAdded": 1734109031018,
+                                "id": "252",
+                                "index": 0,
+                                "parentId": "249",
+                                "title": "opencv-python 单应性矩阵和特征匹配的应用（图像校正、图像拼接） - 寒水浮云 - 博客园",
+                                "url": "https://www.cnblogs.com/libai123456/p/17618061.html"
+                            },
+                            {
+                                "dateAdded": 1734109039315,
+                                "id": "253",
+                                "index": 1,
+                                "parentId": "249",
+                                "title": "单应矩阵 opencv 自由度 单应矩阵求相机外参数_mob64ca13f7419f的技术博客_51CTO博客",
+                                "url": "https://blog.51cto.com/u_16213579/10175854"
+                            },
+                            {
+                                "dateAdded": 1734109058216,
+                                "id": "254",
+                                "index": 2,
+                                "parentId": "249",
+                                "title": "OpenCV-Python系列之Shi—tomasi拐角检测器 - 哔哩哔哩",
+                                "url": "https://www.bilibili.com/opus/430986610813575713"
+                            },
+                            {
+                                "dateAdded": 1734109069956,
+                                "id": "255",
+                                "index": 3,
+                                "parentId": "249",
+                                "title": "【OpenCV-Python】27.OpenCV的特征检测——角检测_cv2.goodfeaturestotrack返回值-CSDN博客",
+                                "url": "https://blog.csdn.net/weixin_43843069/article/details/122194012?sharetype=blog&shareId=122194012&sharerefer=APP&sharesource=qq_70851105&sharefrom=qq"
+                            },
+                            {
+                                "dateAdded": 1734109081728,
+                                "id": "256",
+                                "index": 4,
+                                "parentId": "249",
+                                "title": "第三更，单目相机标定实践（完整过程） - 知乎",
+                                "url": "https://zhuanlan.zhihu.com/p/113507999?utm_id=0"
+                            },
+                            {
+                                "dateAdded": 1734109096338,
+                                "id": "257",
+                                "index": 5,
+                                "parentId": "249",
+                                "title": "python相机标定校正 python 相机标定_mob64ca14150f43的技术博客_51CTO博客",
+                                "url": "https://blog.51cto.com/u_16213703/9099229"
+                            },
+                            {
+                                "dateAdded": 1734371651282,
+                                "id": "261",
+                                "index": 6,
+                                "parentId": "249",
+                                "title": "处理Gzip | 和风天气开发服务",
+                                "url": "https://dev.qweather.com/docs/best-practices/gzip/"
+                            }
+                        ],
+                        "dateAdded": 1734108940037,
+                        "dateGroupModified": 1734371651282,
+                        "id": "249",
+                        "index": 0,
+                        "parentId": "248",
+                        "title": "神经网络"
+                    },
+                    {
+                        "children": [
+                            {
+                                "children": [
+                                    {
+                                        "dateAdded": 1733075253727,
+                                        "id": "220",
+                                        "index": 0,
+                                        "parentId": "219",
+                                        "title": "物体识别 API 文档 | 讯飞开放平台文档中心",
+                                        "url": "https://www.xfyun.cn/doc/image/object-recg/API.html#%E6%8E%A5%E5%8F%A3%E8%A6%81%E6%B1%82"
+                                    },
+                                    {
+                                        "dateAdded": 1733075286219,
+                                        "dateLastUsed": 1733897679307,
+                                        "id": "221",
+                                        "index": 1,
+                                        "parentId": "219",
+                                        "title": "App Inventor Extensions | Pura Vida Apps",
+                                        "url": "https://puravidaapps.com/extensions.php?ref=wxbit"
+                                    },
+                                    {
+                                        "dateAdded": 1733075667857,
+                                        "id": "222",
+                                        "index": 2,
+                                        "parentId": "219",
+                                        "title": "app inventor2 植物识别_哔哩哔哩_bilibili",
+                                        "url": "https://www.bilibili.com/video/BV16e411W7Gw/?spm_id_from=333.337.search-card.all.click&vd_source=3a252a47b83f872851477f7bb46df3d6"
+                                    },
+                                    {
+                                        "dateAdded": 1733075715369,
+                                        "dateLastUsed": 1733897655732,
+                                        "id": "223",
+                                        "index": 3,
+                                        "parentId": "219",
+                                        "title": "appinventor拓展下载",
+                                        "url": "https://ullisroboterseite.de/"
+                                    },
+                                    {
+                                        "dateAdded": 1733124162466,
+                                        "id": "227",
+                                        "index": 4,
+                                        "parentId": "219",
+                                        "title": "App Inventor开发训练营",
+                                        "url": "https://www.ituring.com.cn/book/tupubarticle/30236"
+                                    },
+                                    {
+                                        "dateAdded": 1733934331942,
+                                        "dateLastUsed": 1734001396043,
+                                        "id": "243",
+                                        "index": 5,
+                                        "parentId": "219",
+                                        "title": "AppInventor2操作json数据 - harglo - 博客园",
+                                        "url": "https://www.cnblogs.com/harglo/p/14890324.html"
+                                    },
+                                    {
+                                        "dateAdded": 1733934342528,
+                                        "id": "244",
+                                        "index": 6,
+                                        "parentId": "219",
+                                        "title": "appinventor处理json文本 - 搜索",
+                                        "url": "https://cn.bing.com/search?q=appinventor%E5%A4%84%E7%90%86json%E6%96%87%E6%9C%AC"
+                                    }
+                                ],
+                                "dateAdded": 1733075248810,
+                                "dateGroupModified": 1733934342528,
+                                "id": "219",
+                                "index": 0,
+                                "parentId": "250",
+                                "title": "APPinventor/API"
+                            }
+                        ],
+                        "dateAdded": 1734108952274,
+                        "dateGroupModified": 1734108997261,
+                        "id": "250",
+                        "index": 1,
+                        "parentId": "248",
+                        "title": "appinventor"
+                    },
+                    {
+                        "children": [],
+                        "dateAdded": 1734108962815,
+                        "dateGroupModified": 1734108962815,
+                        "id": "251",
+                        "index": 2,
+                        "parentId": "248",
+                        "title": "FPGA"
+                    },
+                    {
+                        "children": [
+                            {
+                                "dateAdded": 1734371688189,
+                                "id": "263",
+                                "index": 0,
+                                "parentId": "262",
+                                "title": "机械制图答案2",
+                                "url": "https://www.docin.com/p-4412731773.html?docfrom=rrela"
+                            },
+                            {
+                                "dateAdded": 1734371700318,
+                                "id": "264",
+                                "index": 1,
+                                "parentId": "262",
+                                "title": "机械制图(近机.非机_清华版)第2-15章习题答案 - 豆丁网",
+                                "url": "https://www.docin.com/p-1792372339.html"
+                            }
+                        ],
+                        "dateAdded": 1734371670664,
+                        "dateGroupModified": 1734371700318,
+                        "id": "262",
+                        "index": 3,
+                        "parentId": "248",
+                        "title": "机械制图与CAD"
+                    },
+                    {
+                        "dateAdded": 1734078473327,
+                        "dateLastUsed": 1734355263256,
+                        "id": "247",
+                        "index": 4,
+                        "parentId": "248",
+                        "title": "Quartus II 13.1 出现 ‘‘can‘t find design entity ＜Filename＞‘‘ 问题的解决方法_can't find design entity-CSDN博客",
+                        "url": "https://blog.csdn.net/qq_62076686/article/details/126755631"
+                    }
+                ],
+                "dateAdded": 1734108922983,
+                "dateGroupModified": 1734371714712,
+                "id": "248",
+                "index": 8,
+                "parentId": "1",
+                "title": "课程作业"
+            },
+            {
+                "dateAdded": 1734371848176,
+                "dateLastUsed": 1734822099290,
+                "id": "265",
+                "index": 9,
+                "parentId": "1",
+                "title": "暖冬创趣迎新年征集令领券表",
+                "url": "https://docs.qq.com/sheet/DTGNnd256UGREVHRV?tab=BB08J2"
+            },
+            {
+                "dateAdded": 1734968704552,
+                "id": "270",
+                "index": 10,
+                "parentId": "1",
+                "title": "第四讲 ESP32程序架构和启动分析_哔哩哔哩_bilibili",
+                "url": "https://www.bilibili.com/video/BV1eRg7exEcT?spm_id_from=333.788.videopod.episodes&vd_source=3a252a47b83f872851477f7bb46df3d6&p=5"
+            }
+        ],
+        "dateAdded": 1702522395491,
+        "dateGroupModified": 1734968704552,
+        "id": "1",
+        "index": 0,
+        "parentId": "0",
+        "title": "书签栏"
+    }
+]
