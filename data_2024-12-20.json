@@ -5,7 +5,7 @@
                 "children": [
                     {
                         "dateAdded": 1725637021146,
-                        "dateLastUsed": 1734615763998,
+                        "dateLastUsed": 1734939508098,
                         "id": "148",
                         "index": 0,
                         "parentId": "161",
@@ -49,7 +49,7 @@
                     },
                     {
                         "dateAdded": 1728296875123,
-                        "dateLastUsed": 1734642733567,
+                        "dateLastUsed": 1734935963221,
                         "id": "163",
                         "index": 5,
                         "parentId": "161",
@@ -83,7 +83,7 @@
                     },
                     {
                         "dateAdded": 1732443772215,
-                        "dateLastUsed": 1734619621373,
+                        "dateLastUsed": 1734715602093,
                         "id": "205",
                         "index": 9,
                         "parentId": "161",
@@ -106,10 +106,19 @@
                         "parentId": "161",
                         "title": "AI画图 - 智谱清言智能体",
                         "url": "https://chatglm.cn/main/gdetail/65a232c082ff90a2ad2f15e2?lang=zh"
+                    },
+                    {
+                        "dateAdded": 1734689089368,
+                        "dateLastUsed": 1734846354807,
+                        "id": "268",
+                        "index": 12,
+                        "parentId": "161",
+                        "title": "小众技术工具库 | 专注分享实用软件和精品网站",
+                        "url": "https://www.xiaozhongjishu.com/"
                     }
                 ],
                 "dateAdded": 1728296790541,
-                "dateGroupModified": 1733933616154,
+                "dateGroupModified": 1734689089368,
                 "id": "161",
                 "index": 0,
                 "parentId": "1",
@@ -136,10 +145,19 @@
             {
                 "children": [
                     {
+                        "dateAdded": 1728495320100,
+                        "dateLastUsed": 1728658797273,
+                        "id": "170",
+                        "index": 0,
+                        "parentId": "173",
+                        "title": "《高速电路设计与仿真分析：Cadence实例设计详解》-PCB layout相关资料下载-EEWORLD下载中心",
+                        "url": "https://download.eeworld.com.cn/detail/kknd21cn/561105"
+                    },
+                    {
                         "dateAdded": 1720685168483,
                         "dateLastUsed": 1720880052945,
                         "id": "127",
-                        "index": 0,
+                        "index": 1,
                         "parentId": "173",
                         "title": "运放-电阻式电流采样-高压侧和低压侧电流采样方案-CSDN博客",
                         "url": "https://blog.csdn.net/qq_21794157/article/details/136358327?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522172068072916800180670935%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=172068072916800180670935&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-136358327-null-null.142^v100^pc_search_result_base7&utm_term=%E8%BF%90%E6%94%BE%E9%87%87%E9%9B%86%E7%94%B5%E6%B5%81&spm=1018.2226.3001.4187"
@@ -148,7 +166,7 @@
                         "dateAdded": 1720969847884,
                         "dateLastUsed": 1721117867825,
                         "id": "136",
-                        "index": 1,
+                        "index": 2,
                         "parentId": "173",
                         "title": "嵌入式开发-STM32硬件SPI驱动TFT屏_stm32 spi ili934-CSDN博客",
                         "url": "https://blog.csdn.net/13011803189/article/details/128230926?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522172096901316800188549659%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=172096901316800188549659&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-4-128230926-null-null.142^v100^pc_search_result_base4&utm_term=stm32h750%E9%A9%B1%E5%8A%A8tft&spm=1018.2226.3001.4187"
@@ -156,7 +174,7 @@
                     {
                         "dateAdded": 1728281973788,
                         "id": "159",
-                        "index": 2,
+                        "index": 3,
                         "parentId": "173",
                         "title": "ESP32_IDF学习6【经典蓝牙与BLE】 - redlightASl - 博客园",
                         "url": "https://www.cnblogs.com/redlightASl/p/15539689.html#%E7%BB%8F%E5%85%B8%E8%93%9D%E7%89%99%E6%A8%A1%E5%9D%97bt"
@@ -164,7 +182,7 @@
                     {
                         "dateAdded": 1728659923760,
                         "id": "175",
-                        "index": 3,
+                        "index": 4,
                         "parentId": "173",
                         "title": "Anaconda添加国内源、Anaconda管理虚拟环境_conda国内源-CSDN博客",
                         "url": "https://blog.csdn.net/qq_51872445/article/details/130231714"
@@ -172,7 +190,7 @@
                     {
                         "dateAdded": 1733234460960,
                         "id": "229",
-                        "index": 4,
+                        "index": 5,
                         "parentId": "173",
                         "title": "VSCODE platformio ESP32-S3 内置 JTAG 接口断点单步调试笔记_esp32 s3 jtag-CSDN博客",
                         "url": "https://blog.csdn.net/ResumeProject/article/details/140901097?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522800fb3539621c911c78e894d85e6152a%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=800fb3539621c911c78e894d85e6152a&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-1-140901097-null-null.142^v100^pc_search_result_base8&utm_term=vscode%20platformio%E9%85%8D%E7%BD%AEesp32s3&spm=1018.2226.3001.4187"
@@ -180,7 +198,7 @@
                     {
                         "dateAdded": 1733234478497,
                         "id": "230",
-                        "index": 5,
+                        "index": 6,
                         "parentId": "173",
                         "title": "PlatformIO+ESP32S3学习：驱动DS1302实现时间设置和读取_esp32 ds1302-CSDN博客",
                         "url": "https://blog.csdn.net/qq_51930953/article/details/140734318?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522800fb3539621c911c78e894d85e6152a%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=800fb3539621c911c78e894d85e6152a&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~sobaiduend~default-2-140734318-null-null.142^v100^pc_search_result_base8&utm_term=vscode%20platformio%E9%85%8D%E7%BD%AEesp32s3&spm=1018.2226.3001.4187"
@@ -188,14 +206,14 @@
                     {
                         "dateAdded": 1734374085165,
                         "id": "266",
-                        "index": 6,
+                        "index": 7,
                         "parentId": "173",
                         "title": "chrome添加书签同步插件_chrome书签同步插件-CSDN博客",
                         "url": "https://blog.csdn.net/qq_38983728/article/details/103024577"
                     }
                 ],
                 "dateAdded": 1728658681050,
-                "dateGroupModified": 1734374085165,
+                "dateGroupModified": 1734645191308,
                 "id": "173",
                 "index": 3,
                 "parentId": "1",
@@ -203,21 +221,12 @@
             },
             {
                 "dateAdded": 1727158498652,
-                "dateLastUsed": 1734248931495,
+                "dateLastUsed": 1734953994714,
                 "id": "155",
                 "index": 4,
                 "parentId": "1",
                 "title": "微信文件传输助手网页版",
                 "url": "https://filehelper.weixin.qq.com/"
-            },
-            {
-                "dateAdded": 1728495320100,
-                "dateLastUsed": 1728658797273,
-                "id": "170",
-                "index": 5,
-                "parentId": "1",
-                "title": "《高速电路设计与仿真分析：Cadence实例设计详解》-PCB layout相关资料下载-EEWORLD下载中心",
-                "url": "https://download.eeworld.com.cn/detail/kknd21cn/561105"
             },
             {
                 "children": [
@@ -404,7 +413,7 @@
                 "dateAdded": 1730539992769,
                 "dateGroupModified": 1734045119176,
                 "id": "184",
-                "index": 6,
+                "index": 5,
                 "parentId": "1",
                 "title": "毕设小车模块资料"
             },
@@ -422,14 +431,14 @@
                 "dateAdded": 1733039530321,
                 "dateGroupModified": 1733039543751,
                 "id": "214",
-                "index": 7,
+                "index": 6,
                 "parentId": "1",
                 "title": "扬百_查资料"
             },
             {
                 "dateAdded": 1733496041895,
                 "id": "238",
-                "index": 8,
+                "index": 7,
                 "parentId": "1",
                 "title": "简历模板资源网 - 免费简历模板下载网站（简历精美专业）",
                 "url": "https://www.jianlimoban-ziyuan.com/"
@@ -629,21 +638,30 @@
                 "dateAdded": 1734108922983,
                 "dateGroupModified": 1734371714712,
                 "id": "248",
-                "index": 9,
+                "index": 8,
                 "parentId": "1",
                 "title": "课程作业"
             },
             {
                 "dateAdded": 1734371848176,
+                "dateLastUsed": 1734822099290,
                 "id": "265",
-                "index": 10,
+                "index": 9,
                 "parentId": "1",
                 "title": "暖冬创趣迎新年征集令领券表",
                 "url": "https://docs.qq.com/sheet/DTGNnd256UGREVHRV?tab=BB08J2"
+            },
+            {
+                "dateAdded": 1734968704552,
+                "id": "270",
+                "index": 10,
+                "parentId": "1",
+                "title": "第四讲 ESP32程序架构和启动分析_哔哩哔哩_bilibili",
+                "url": "https://www.bilibili.com/video/BV1eRg7exEcT?spm_id_from=333.788.videopod.episodes&vd_source=3a252a47b83f872851477f7bb46df3d6&p=5"
             }
         ],
         "dateAdded": 1702522395491,
-        "dateGroupModified": 1734371848176,
+        "dateGroupModified": 1734968704552,
         "id": "1",
         "index": 0,
         "parentId": "0",
