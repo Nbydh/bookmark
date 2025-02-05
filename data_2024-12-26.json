@@ -5,7 +5,7 @@
                 "children": [
                     {
                         "dateAdded": 1725637021146,
-                        "dateLastUsed": 1735053572482,
+                        "dateLastUsed": 1736959503004,
                         "id": "148",
                         "index": 0,
                         "parentId": "161",
@@ -32,6 +32,7 @@
                     },
                     {
                         "dateAdded": 1728297590743,
+                        "dateLastUsed": 1736796588365,
                         "id": "167",
                         "index": 3,
                         "parentId": "161",
@@ -49,7 +50,7 @@
                     },
                     {
                         "dateAdded": 1728296875123,
-                        "dateLastUsed": 1735042559638,
+                        "dateLastUsed": 1736188641572,
                         "id": "163",
                         "index": 5,
                         "parentId": "161",
@@ -83,7 +84,7 @@
                     },
                     {
                         "dateAdded": 1732443772215,
-                        "dateLastUsed": 1734715602093,
+                        "dateLastUsed": 1736798809393,
                         "id": "205",
                         "index": 9,
                         "parentId": "161",
@@ -100,7 +101,7 @@
                     },
                     {
                         "dateAdded": 1733933616154,
-                        "dateLastUsed": 1734178480512,
+                        "dateLastUsed": 1735226676646,
                         "id": "241",
                         "index": 11,
                         "parentId": "161",
@@ -115,10 +116,18 @@
                         "parentId": "161",
                         "title": "小众技术工具库 | 专注分享实用软件和精品网站",
                         "url": "https://www.xiaozhongjishu.com/"
+                    },
+                    {
+                        "dateAdded": 1736185904679,
+                        "id": "295",
+                        "index": 13,
+                        "parentId": "161",
+                        "title": "腾讯云AI代码助手",
+                        "url": "https://copilot.tencent.com/chat/?fromSource=gwzcw.9272003.9272003.9272003&utm_medium=cpc&utm_id=gwzcw.9272003.9272003.9272003"
                     }
                 ],
                 "dateAdded": 1728296790541,
-                "dateGroupModified": 1734689089368,
+                "dateGroupModified": 1736185904679,
                 "id": "161",
                 "index": 0,
                 "parentId": "1",
@@ -126,7 +135,7 @@
             },
             {
                 "dateAdded": 1719718580734,
-                "dateLastUsed": 1732220750143,
+                "dateLastUsed": 1736190555697,
                 "id": "106",
                 "index": 1,
                 "parentId": "1",
@@ -135,7 +144,7 @@
             },
             {
                 "dateAdded": 1726475461638,
-                "dateLastUsed": 1733756587680,
+                "dateLastUsed": 1736854809291,
                 "id": "151",
                 "index": 2,
                 "parentId": "1",
@@ -218,10 +227,26 @@
                         "parentId": "173",
                         "title": "Atollic TrueSTUDIO for STM32 9.3.0开发环境配置笔记_mob604757001c56的技术博客_51CTO博客",
                         "url": "https://blog.51cto.com/u_15127657/4687761"
+                    },
+                    {
+                        "dateAdded": 1736817628811,
+                        "id": "302",
+                        "index": 9,
+                        "parentId": "173",
+                        "title": "KMS 列表 | Yerong の小窝",
+                        "url": "https://www.coolhub.top/tech-articles/kms_list.html"
+                    },
+                    {
+                        "dateAdded": 1737251005537,
+                        "id": "306",
+                        "index": 10,
+                        "parentId": "173",
+                        "title": "示例贴：日日自新学习AI8051U - 学习打卡区 | 感悟 国芯技术交流网站 - AI32位8051交流社区",
+                        "url": "https://www.stcaimcu.com/forum.php?mod=viewthread&tid=12058&aid=65493&page=1"
                     }
                 ],
                 "dateAdded": 1728658681050,
-                "dateGroupModified": 1735213283965,
+                "dateGroupModified": 1737251005537,
                 "id": "173",
                 "index": 3,
                 "parentId": "1",
@@ -229,7 +254,7 @@
             },
             {
                 "dateAdded": 1727158498652,
-                "dateLastUsed": 1735208942050,
+                "dateLastUsed": 1737351752459,
                 "id": "155",
                 "index": 4,
                 "parentId": "1",
@@ -428,28 +453,122 @@
             {
                 "children": [
                     {
-                        "dateAdded": 1733039543751,
-                        "id": "215",
+                        "dateAdded": 1735478240937,
+                        "id": "278",
                         "index": 0,
                         "parentId": "214",
-                        "title": "消侧音的两种方法讨论",
-                        "url": "https://www.eepw.com.cn/article/229049.htm"
+                        "title": "能力勋章之蒙昧勋章答题篇 - 哔哩哔哩",
+                        "url": "https://www.bilibili.com/opus/787816462540603425"
+                    },
+                    {
+                        "dateAdded": 1735478270416,
+                        "dateLastUsed": 1736963797035,
+                        "id": "279",
+                        "index": 1,
+                        "parentId": "214",
+                        "title": "字载网·能力勋章介绍页",
+                        "url": "https://www.guanziheng.com/"
+                    },
+                    {
+                        "dateAdded": 1735479659524,
+                        "dateLastUsed": 1738678829172,
+                        "id": "280",
+                        "index": 2,
+                        "parentId": "214",
+                        "title": "饥荒维基 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司",
+                        "url": "https://dontstarve.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5"
+                    },
+                    {
+                        "dateAdded": 1735480956077,
+                        "dateLastUsed": 1737296884704,
+                        "id": "281",
+                        "index": 3,
+                        "parentId": "214",
+                        "title": "QiNeko模组百科",
+                        "url": "http://dst.driftee.top/24"
+                    },
+                    {
+                        "dateAdded": 1736819617245,
+                        "id": "303",
+                        "index": 4,
+                        "parentId": "214",
+                        "title": "sakurafrp饥荒联机版-哔哩哔哩_bilibili",
+                        "url": "https://search.bilibili.com/all?vt=18756042&keyword=sakurafrp%E9%A5%A5%E8%8D%92%E8%81%94%E6%9C%BA%E7%89%88&from_source=webtop_search&spm_id_from=333.788&search_source=2"
+                    },
+                    {
+                        "dateAdded": 1736819648583,
+                        "id": "304",
+                        "index": 5,
+                        "parentId": "214",
+                        "title": "SakuraFrp",
+                        "url": "https://www.natfrp.com/user/"
+                    },
+                    {
+                        "dateAdded": 1737725744397,
+                        "id": "312",
+                        "index": 6,
+                        "parentId": "214",
+                        "title": "Terraria Wiki",
+                        "url": "https://wiki.biligame.com/tr/Terraria_Wiki"
+                    },
+                    {
+                        "dateAdded": 1737725878855,
+                        "dateLastUsed": 1737946911510,
+                        "id": "314",
+                        "index": 7,
+                        "parentId": "214",
+                        "title": "官方中文泰拉瑞亚维基百科（The Official Chinese Terraria Wiki） - 最详细的中文泰拉瑞亚百科",
+                        "url": "https://terraria.wiki.gg/zh/wiki/Terraria_Wiki?variant=zh-mo"
+                    },
+                    {
+                        "dateAdded": 1737876092950,
+                        "dateLastUsed": 1737996827099,
+                        "id": "316",
+                        "index": 8,
+                        "parentId": "214",
+                        "title": "灾厄中文维基 - 灰机wiki - 北京嘉闻杰诺网络科技有限公司",
+                        "url": "https://calamity.huijiwiki.com/wiki/%E9%A6%96%E9%A1%B5"
+                    },
+                    {
+                        "dateAdded": 1738679143750,
+                        "dateLastUsed": 1738685161501,
+                        "id": "318",
+                        "index": 9,
+                        "parentId": "214",
+                        "title": "博德之门3全收集地图_提供全部武器装备、角色支线位置等收集信息",
+                        "url": "https://www.gamersky.com/tools/map/baldursgate3"
+                    },
+                    {
+                        "dateAdded": 1738679897425,
+                        "id": "319",
+                        "index": 10,
+                        "parentId": "214",
+                        "title": "修改器安装程序_免费高速下载|百度网盘-分享无限制",
+                        "url": "https://pan.baidu.com/s/15wGvoBCpzDy55Kyg0hjCKg#list/path=%2Fsharelink1988475613-736267151949167%2F%E4%BF%AE%E6%94%B9%E5%99%A8%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F&parentPath=%2Fsharelink1988475613-736267151949167"
+                    },
+                    {
+                        "dateAdded": 1738680673734,
+                        "id": "320",
+                        "index": 11,
+                        "parentId": "214",
+                        "title": "荒野 - 博德之门3互动地图 - 踩蘑菇社区",
+                        "url": "https://map.caimogu.cc/bg3/wilderness.html"
+                    },
+                    {
+                        "dateAdded": 1738694817572,
+                        "id": "322",
+                        "index": 12,
+                        "parentId": "214",
+                        "title": "《博德之门3》全支线及伙伴任务攻略_支线-搜查地窖-游民星空 GamerSky.com",
+                        "url": "https://www.gamersky.com/handbook/202308/1635334_9.shtml?gsAppOpenWithNewWindow=true"
                     }
                 ],
                 "dateAdded": 1733039530321,
-                "dateGroupModified": 1733039543751,
+                "dateGroupModified": 1738694817572,
                 "id": "214",
                 "index": 6,
                 "parentId": "1",
-                "title": "扬百_查资料"
-            },
-            {
-                "dateAdded": 1733496041895,
-                "id": "238",
-                "index": 7,
-                "parentId": "1",
-                "title": "简历模板资源网 - 免费简历模板下载网站（简历精美专业）",
-                "url": "https://www.jianlimoban-ziyuan.com/"
+                "title": "游戏"
             },
             {
                 "children": [
@@ -646,38 +765,154 @@
                 "dateAdded": 1734108922983,
                 "dateGroupModified": 1734371714712,
                 "id": "248",
-                "index": 8,
+                "index": 7,
                 "parentId": "1",
                 "title": "课程作业"
             },
             {
-                "dateAdded": 1734371848176,
-                "dateLastUsed": 1734822099290,
-                "id": "265",
+                "children": [
+                    {
+                        "dateAdded": 1736173141455,
+                        "dateLastUsed": 1736214979900,
+                        "id": "291",
+                        "index": 0,
+                        "parentId": "285",
+                        "title": "重庆地格科技有限责任公司 - 爱企查",
+                        "url": "https://aiqicha.baidu.com/company_detail_25377750921201"
+                    },
+                    {
+                        "dateAdded": 1733496041895,
+                        "id": "238",
+                        "index": 1,
+                        "parentId": "285",
+                        "title": "简历模板资源网 - 免费简历模板下载网站（简历精美专业）",
+                        "url": "https://www.jianlimoban-ziyuan.com/"
+                    },
+                    {
+                        "dateAdded": 1736173188610,
+                        "dateLastUsed": 1736214972064,
+                        "id": "292",
+                        "index": 2,
+                        "parentId": "285",
+                        "title": "重庆地格科技有限责任公司",
+                        "url": "https://www.deicing-group.com/page246"
+                    },
+                    {
+                        "dateAdded": 1736173475977,
+                        "dateLastUsed": 1736215003364,
+                        "id": "293",
+                        "index": 3,
+                        "parentId": "285",
+                        "title": "重庆地格科技有限责任公司 (重庆市高新区含谷镇高腾大道1000号重庆清研理工科技园2幢1-7号楼邮政编码400039) | 重庆新工商名录 - 名录集",
+                        "url": "https://gongshang.mingluji.com/chongqing/name/%E9%87%8D%E5%BA%86%E5%9C%B0%E6%A0%BC%E7%A7%91%E6%8A%80%E6%9C%89%E9%99%90%E8%B4%A3%E4%BB%BB%E5%85%AC%E5%8F%B8"
+                    }
+                ],
+                "dateAdded": 1736173082238,
+                "dateGroupModified": 1736173475977,
+                "id": "285",
+                "index": 8,
+                "parentId": "1",
+                "title": "job"
+            },
+            {
+                "children": [
+                    {
+                        "dateAdded": 1736173128572,
+                        "dateLastUsed": 1736573482434,
+                        "id": "288",
+                        "index": 0,
+                        "parentId": "287",
+                        "title": "无人机/四轴飞行器 - 立创开源硬件平台",
+                        "url": "https://oshwhub.com/yyds8051/uav-quadcopter"
+                    },
+                    {
+                        "dateAdded": 1736173128572,
+                        "id": "289",
+                        "index": 1,
+                        "parentId": "287",
+                        "title": "INAV飞控移植(1)_哔哩哔哩_bilibili",
+                        "url": "https://www.bilibili.com/video/BV1gqzRYyEqt?spm_id_from=333.788.videopod.sections&vd_source=3a252a47b83f872851477f7bb46df3d6"
+                    },
+                    {
+                        "dateAdded": 1736173128572,
+                        "id": "290",
+                        "index": 2,
+                        "parentId": "287",
+                        "title": "第四讲 ESP32程序架构和启动分析_哔哩哔哩_bilibili",
+                        "url": "https://www.bilibili.com/video/BV1eRg7exEcT?spm_id_from=333.788.videopod.episodes&vd_source=3a252a47b83f872851477f7bb46df3d6&p=5"
+                    },
+                    {
+                        "dateAdded": 1734371848176,
+                        "dateLastUsed": 1735549280769,
+                        "id": "265",
+                        "index": 3,
+                        "parentId": "287",
+                        "title": "暖冬创趣迎新年征集令领券表",
+                        "url": "https://docs.qq.com/sheet/DTGNnd256UGREVHRV?tab=BB08J2"
+                    }
+                ],
+                "dateAdded": 1736173125067,
+                "dateGroupModified": 1736173176192,
+                "id": "287",
                 "index": 9,
                 "parentId": "1",
-                "title": "暖冬创趣迎新年征集令领券表",
-                "url": "https://docs.qq.com/sheet/DTGNnd256UGREVHRV?tab=BB08J2"
+                "title": "project"
             },
             {
-                "dateAdded": 1734968704552,
-                "id": "270",
+                "dateAdded": 1736183782659,
+                "dateLastUsed": 1736783394404,
+                "id": "294",
                 "index": 10,
                 "parentId": "1",
-                "title": "第四讲 ESP32程序架构和启动分析_哔哩哔哩_bilibili",
-                "url": "https://www.bilibili.com/video/BV1eRg7exEcT?spm_id_from=333.788.videopod.episodes&vd_source=3a252a47b83f872851477f7bb46df3d6&p=5"
+                "title": "重庆师范大学就业信息网",
+                "url": "https://cqnu.cqbys.com/"
             },
             {
-                "dateAdded": 1734969314292,
-                "id": "271",
+                "dateAdded": 1736792598587,
+                "dateLastUsed": 1736810186380,
+                "id": "297",
                 "index": 11,
                 "parentId": "1",
-                "title": "INAV飞控移植(1)_哔哩哔哩_bilibili",
-                "url": "https://www.bilibili.com/video/BV1gqzRYyEqt?spm_id_from=333.788.videopod.sections&vd_source=3a252a47b83f872851477f7bb46df3d6"
+                "title": "迷你数控电源-FL Power V3 - 立创开源硬件平台",
+                "url": "https://oshwhub.com/flyn/flpower"
+            },
+            {
+                "dateAdded": 1736792603041,
+                "dateLastUsed": 1736810631061,
+                "id": "298",
+                "index": 12,
+                "parentId": "1",
+                "title": "USB可调电源V3,硬件V4.7全面升级 - 立创开源硬件平台",
+                "url": "https://oshwhub.com/bryan_he/usb-ps-v30"
+            },
+            {
+                "dateAdded": 1736792613237,
+                "dateLastUsed": 1736810796845,
+                "id": "300",
+                "index": 13,
+                "parentId": "1",
+                "title": "赛博魔杖_STM32卷积神经网络 - 立创开源硬件平台",
+                "url": "https://oshwhub.com/lyg0927/cyberwand-stm32-convolutional-ne"
+            },
+            {
+                "dateAdded": 1737286517218,
+                "id": "308",
+                "index": 14,
+                "parentId": "1",
+                "title": "typec2s锂电池平衡充电板（diy分享一）_2s锂电池充电芯片-CSDN博客",
+                "url": "https://blog.csdn.net/jinnnmn/article/details/142148549"
+            },
+            {
+                "dateAdded": 1737355239518,
+                "id": "310",
+                "index": 15,
+                "parentId": "1",
+                "title": "STLINK/JLINK_OB/DAPLINK - 立创开源硬件平台",
+                "url": "https://oshwhub.com/dean/stlink_uart"
             }
         ],
         "dateAdded": 1702522395491,
-        "dateGroupModified": 1734969314292,
+        "dateGroupModified": 1737355239518,
         "id": "1",
         "index": 0,
         "parentId": "0",
